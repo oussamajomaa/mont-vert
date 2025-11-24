@@ -1,0 +1,14 @@
+# Frontend
+web/node_modules/
+web/dist/
+web/.env
+
+# Backend
+server/node_modules/
+server/.env
+
+# (optionnel mais pratique)
+node_modules/
+dist/
+.env
+
